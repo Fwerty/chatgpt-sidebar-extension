@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Yan Panel",
+  "version": "1.0",
+  "description": "ChatGPT sayfasında açılan yan panel",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["https://chatgpt.com/*"],
+  "action": {
+    "default_title": "Yan Paneli Aç",
+    "default_icon": {
+      "16": "chat.png",
+      "32": "chat.png",
+      "48": "chat.png",
+      "128": "chat.png"
+    }
+  },
+  "icons": {
+    "16": "chat.png",
+    "32": "chat.png",
+    "48": "chat.png",
+    "128": "chat.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
