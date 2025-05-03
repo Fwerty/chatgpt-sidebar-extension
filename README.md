@@ -1,7 +1,7 @@
 # 🧠 ChatGPT Sidebar Extension
 
 *********************
-❤️ Youtube link below :
+❤️ Youtube link :
 https://www.youtube.com/watch?v=C-42_ZGgTIw&ab_channel=Furkan%C3%87elebi
 *********************
 
